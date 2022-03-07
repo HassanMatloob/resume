@@ -1,0 +1,133 @@
+body {
+  line-height: 2;
+  margin: 0;
+  text-align: center;
+  color: #40514e;
+}
+.top_container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 9.375rem;
+}
+
+.name {
+  font-family: "Dancing Script", cursive;
+  margin: 0;
+  font-size: 90px;
+}
+
+h1,
+h2 {
+  color: #66bfbf;
+  font-family: "Noto Sans JP", sans-serif;
+  margin: 0;
+  font-size: 2em;
+}
+h3,
+a {
+  color: #11999e;
+  font-family: "Noto Sans JP", sans-serif;
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.web {
+  color: #66bfbf;
+  font-weight: normal;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 1.5rem;
+}
+p {
+  font-family: "Mukta";
+  font-size: 18px;
+}
+
+.middle_container {
+  margin: 100px 0;
+}
+.hassan {
+  border-radius: 150px;
+}
+.skill-image1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-image2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-cloud {
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  left: 300px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.bottom_container {
+  margin: 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #66bfbf;
+}
+a {
+  color: #015a5e;
+  font-size: 15px;
+  margin-right: 50px;
+  text-decoration: none;
+}
+a:hover {
+  color: #eaf6f6;
+}
+.bottom_container p {
+  margin-bottom: 0;
+  font-size: 12px;
+  font-family: cursive;
+}
+.copy-right {
+  color: #eaf6f6;
+}
+hr {
+  border: dotted #b6c4c4 6px;
+  border-bottom: none;
+  margin: 70px auto;
+  width: 4%;
+}
+.btn {
+  padding: 10px 20px;
+  margin-top: 33px;
+  font-size: 20px;
+  background-image: linear-gradient(to bottom, #1ac5c5, #047575);
+  color: #eaf6f6;
+  border: 0;
+  border-radius: 5px;
+}
+.btn:hover {
+  background-image: linear-gradient(to bottom, #b5f0f0, #06acac);
+  color: #eaf6f6;
+  border: 0;
+  border-radius: 5px;
+}
+.get-in-touch {
+  width: 50%;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.contact-me h3 {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
